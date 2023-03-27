@@ -21,3 +21,4 @@ class Student:
 
     def alert_santa(self):
         self.naughty_list = True
+        
